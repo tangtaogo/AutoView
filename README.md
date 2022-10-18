@@ -4,10 +4,15 @@
  </font></span>
 </br>
 Tao Tang∗, Changlin Li∗, Guangrun Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang</a><sup><span>&#8224;</span></sup>
-
 (<span>*</span>: equal contribution, <span>&#8224;</span>: corresponding author)
 
+<br>
+
 <div><a href="https://arxiv.org/pdf/2210.08458.pdf">[arXiv Preprint]</a></div> 
+
+</div>
+
+
 
 ## Introduction
 
