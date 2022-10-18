@@ -3,7 +3,8 @@
 <span><font size="5", > Learning Self-Regularized Adversarial Views for Self-Supervised Vision Transformers
  </font></span>
 </br>
-Tao Tang∗, Changlin Li∗, Guangrun Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang</a><sup><span>&#8224;</span></sup>
+Tao Tang∗, Changlin Li∗, Guangrun Wang, Kaicheng Yu, Xiaojun Chang, Xiaodan Liang<sup><span>&#8224;</span></sup>
+
 (<span>*</span>: equal contribution, <span>&#8224;</span>: corresponding author)
 
 <br>
